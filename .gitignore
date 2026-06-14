@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+checkpoints/
+*.pt
+.claude/
+data/
+STATUS.md
+云端训练与使用指南.md
+docs/02-服务器与部署.md
